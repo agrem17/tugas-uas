@@ -6,7 +6,7 @@ KELOMPOK 8 TUGAS UAS PEMROGRAMAN WEB DASAR
   <li>Andhika pratama_231351020</li>
   <li>Elvira rifani_231351045</li>
  </ol>
- <br> Brikut adalah link youtube kelompok kami : https://youtu.be/XQXhY8imrO4?si=qbFfrxVkkWbyPo-w
+ <br> Berikut adalah link youtube kelompok kami : https://youtu.be/XQXhY8imrO4?si=qbFfrxVkkWbyPo-w
  <br> Tema dari tugas kami adalah online shop atau e-commerce yang kami beri nama EEA-SHOP
  <br> Tugas tugas anggota kelompok :
  <ol>
